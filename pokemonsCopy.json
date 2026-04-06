@@ -1,94 +1,78 @@
 [
   {
-    "id": 1,
-    "name": "Pikachu",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-    "tipo": [
-      "electrico"
-    ]
-  },
-  {
-    "id": 2,
+    "num": 1,
     "name": "Charmander",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-    "tipo": [
+    "type": [
       "fuego"
     ]
   },
   {
-    "id": 3,
+    "num": 2,
     "name": "Pikachu",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-    "tipo": [
+    "type": [
       "electric"
     ]
   },
   {
-    "id": 4,
+    "num": 3,
     "name": "Charmander",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-    "tipo": [
+    "type": [
       "fire"
     ]
   },
   {
-    "id": 5,
+    "num": 4,
     "name": "Jigglypuff",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
-    "tipo": [
+    "type": [
       "normal",
       "hada"
     ]
   },
   {
-    "id": 7,
+    "num": 5,
     "name": "Squirtle",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-    "tipo": [
+    "type": [
       "agua"
     ]
   },
   {
-    "id": 8,
+    "num": 6,
     "name": "Bulbasaur",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-    "tipo": [
+    "type": [
       "fuego"
     ]
   },
   {
-    "id": 9,
+    "num": 7,
     "name": "Pikachu",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-    "tipo": [
+    "type": [
       [
         "electric"
       ]
     ]
   },
   {
-    "id": 10,
+    "num": 8,
     "name": "Charizard",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-    "tipo": [
+    "type": [
       "fire",
       "flying"
     ]
   },
   {
-    "id": 11,
-    "name": "Blastoise",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-    "tipo": [
-      "water"
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Metapod",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
-    "tipo": [
-      "bug"
+    "num": 9,
+    "name": "Charmander",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "type": [
+      "fire"
     ]
   }
 ]
