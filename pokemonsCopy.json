@@ -1,78 +1,44 @@
 [
   {
     "num": 1,
-    "name": "Charmander",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-    "type": [
-      "fuego"
-    ]
-  },
-  {
-    "num": 2,
-    "name": "Pikachu",
+    "name": "pikachu",
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
     "type": [
       "electric"
     ]
   },
   {
-    "num": 3,
-    "name": "Charmander",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "num": 2,
+    "name": "Squirtle",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
     "type": [
-      "fire"
+      "water"
+    ]
+  },
+  {
+    "num": 3,
+    "name": "ivysaur",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "type": [
+      "grass",
+      "poison"
     ]
   },
   {
     "num": 4,
-    "name": "Jigglypuff",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "name": "metapod",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
     "type": [
-      "normal",
-      "hada"
+      "bug"
     ]
   },
   {
     "num": 5,
-    "name": "Squirtle",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "name": "kakuna",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
     "type": [
-      "agua"
-    ]
-  },
-  {
-    "num": 6,
-    "name": "Bulbasaur",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-    "type": [
-      "fuego"
-    ]
-  },
-  {
-    "num": 7,
-    "name": "Pikachu",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
-    "type": [
-      [
-        "electric"
-      ]
-    ]
-  },
-  {
-    "num": 8,
-    "name": "Charizard",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-    "type": [
-      "fire",
-      "flying"
-    ]
-  },
-  {
-    "num": 9,
-    "name": "Charmander",
-    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-    "type": [
-      "fire"
+      "bug",
+      "poison"
     ]
   }
 ]
