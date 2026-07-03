@@ -6,10 +6,18 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
-
+model Maestro {
+  id       Int       @id @default(autoincrement())
+  nombre   String    @unique
+  pokemons Pokemon[]
+}
 model Pokemon {
-  num     Int    @id @default(autoincrement())
+  id        Int @id @default(autoincrement())
+  num       Int @unique
   name    String
   imagen  String
   type    String[]
+  maestroId Int?
+  maestro   Maestro? @relation(fields: [maestroId], references: [id])
 }
+
